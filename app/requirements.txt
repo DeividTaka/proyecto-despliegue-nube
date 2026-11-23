@@ -4,3 +4,4 @@ psycopg[binary]
 psycopg2-binary
 sqlalchemy
 python-multipart
+httpx
